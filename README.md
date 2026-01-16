@@ -54,8 +54,8 @@ Este projeto é ideal para fins **acadêmicos**, **portfólio profissional** e *
 
 ```mermaid
 graph TD
-    User -->|WATCHED {rating}| Movie
-    User -->|WATCHED {rating}| Series
+    User -->|WATCHED rating| Movie
+    User -->|WATCHED rating| Series
 
     Actor -->|ACTED_IN| Movie
     Actor -->|ACTED_IN| Series
@@ -65,6 +65,7 @@ graph TD
 
     Movie -->|IN_GENRE| Genre
     Series -->|IN_GENRE| Genre
+
 ```
 
 ---

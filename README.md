@@ -104,6 +104,29 @@ Com esse modelo, é possível responder perguntas como:
 
 ## 👨‍💻 Autor
 
-Projeto desenvolvido para fins educacionais e de portfólio.
+João Marcos Araújo Lima
 
-Se você gostou deste projeto, ⭐ o repositório e fique à vontade para contribuir!
+Entusiasta de Dados | Bancos de Dados | Grafos | Cloud & IA
+
+Profissional em formação na área de Tecnologia da Informação, com foco em engenharia de dados, modelagem de bancos de dados e soluções baseadas em grafos. Possui interesse especial em:
+
+Bancos de dados orientados a grafos (Neo4j, Cosmos DB)
+
+Modelagem de dados e sistemas de recomendação
+
+Cloud Computing e Inteligência Artificial
+
+Desenvolvimento de projetos práticos para portfólio
+
+📌 Este projeto foi desenvolvido com o objetivo de demonstrar habilidades em modelagem de grafos, pensamento relacional e boas práticas de documentação técnica, sendo ideal para avaliação acadêmica e profissional.
+
+🌐 **GitHub**  
+ 
+👉 [![GitHub](https://img.shields.io/badge/GitHub-jmarcosaraujo-181717?logo=github&logoColor=white)](https://github.com/jmarcosaraujo)  
+
+💼 **LinkedIn**  
+
+👉 [![LinkedIn](https://img.shields.io/badge/LinkedIn%20João%20Marcos%20Araújo-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jo%C3%A3o-marcos-ara%C3%BAjo-lima-07b032214/)
+
+
+⭐ Se este projeto foi útil ou inspirador, considere deixar uma estrela no repositório!
